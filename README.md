@@ -1,5 +1,5 @@
 ## Hi there 👋
-Place for things that don't really need their own spot
+Place for things
 <!--
 **kingwinkie/kingwinkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
