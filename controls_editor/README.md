@@ -1,3 +1,5 @@
+Look in the dist folder for single file cmds
+
 # NR2003 Controls.cfg Editor
 
 Tool for reading and modifying NASCAR Racing 2003 Season control mappings.
