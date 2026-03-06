@@ -1,4 +1,4 @@
-Look in the dist folder for single file cmds
+Look in the dist folder for single file cmds and remember a ai wrote this and the readme 
 
 # NR2003 Car Camera File Editor
 
