@@ -1,0 +1,26 @@
+,,,,,,,,
+,,,,,,,,
+&H2EA515,Sing,0,5,??? (in),Chassis,all - 0-5,37,
+,,,,,,,,
+&H2EDD9F,Long,1,12,Steering Ratio,Garage,---,Field 17,Min
+&H2EDDA3,Long,32,32,Steering Ratio,Garage,---,Field 18,Max
+&H2EDDA7,Long,1,1,Steering Ratio,Garage,---,Field 19,Step
+&H2EDDAB,Long,18,18,Steering Ratio,Garage,---,Field 20,Default?
+,,,,,,,,
+&H2EDED3,Sing,-0.2,-0.2,Toe Out,Garage,---,Field 61,Min
+&H2EDED7,Sing,0.3,0.2,Toe Out,Garage,---,Field 62,Max
+&H2EDEDB,Sing,0.025,0.025,Toe Out,Garage,---,Field 63,Step
+&H2EDEDF,Sing,-0.125,-0.125,Toe Out,Garage,---,Field 64,Default?
+,,,,,,,,
+&H2EDF0B,Sing,.1,4.5,Ride Height LF,Garage,---,Field 69,Min
+&H2EDF0F,Sing,5.5,5.5,Ride Height LF,Garage,---,Field 70,Max
+&H2EDF13,Sing,0.25,0.25,Ride Height LF,Garage,---,Field 71,Step
+&H2EDF17,Sing,5,5,Ride Height LF,Garage,---,Field 72,Default?
+&H2EDF27,Sing,.1,5.5,Ride Height LR,Garage,---,Field 73,Min
+&H2EDF2B,Sing,6.5,6.5,Ride Height LR,Garage,---,Field 74,Max
+&H2EDF2F,Sing,0.25,0.25,Ride Height LR,Garage,---,Field 75,Step
+&H2EDF33,Sing,6,6,Ride Height LR,Garage,---,Field 76,Default?
+&H2EDF43,Sing,.1,6,Ride Height RR,Garage,---,Field 77,Min
+&H2EDF47,Sing,7,7,Ride Height RR,Garage,---,Field 78,Max
+&H2EDF4B,Sing,0.25,0.25,Ride Height RR,Garage,---,Field 79,Step
+&H2EDF4F,Sing,6,6,Ride Height RR,Garage,---,Field 80,Default?
