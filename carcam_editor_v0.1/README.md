@@ -1,5 +1,3 @@
-Look in the dist folder for single file cmds and remember a ai wrote this and the readme 
-
 # NR2003 Car Camera File Editor
 
 Python tool for editing `.cam` camera files for **NASCAR Racing 2003 Season (NR2003)** by Papyrus.
